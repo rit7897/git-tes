@@ -1,0 +1,24 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "testing out npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rit7897/git-tes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rit7897/git-tes/issues"
+  },
+  "homepage": "https://github.com/rit7897/git-tes#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
